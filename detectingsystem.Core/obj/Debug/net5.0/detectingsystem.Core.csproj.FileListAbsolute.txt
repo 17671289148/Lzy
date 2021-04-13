@@ -1,0 +1,12 @@
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\bin\Debug\net5.0\detectingsystem.Core.deps.json
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\bin\Debug\net5.0\detectingsystem.Core.dll
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\bin\Debug\net5.0\ref\detectingsystem.Core.dll
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\bin\Debug\net5.0\detectingsystem.Core.pdb
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\bin\Debug\net5.0\detectingsystem.Core.xml
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\obj\Debug\net5.0\detectingsystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\obj\Debug\net5.0\detectingsystem.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\obj\Debug\net5.0\detectingsystem.Core.AssemblyInfo.cs
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\obj\Debug\net5.0\detectingsystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\obj\Debug\net5.0\detectingsystem.Core.dll
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\obj\Debug\net5.0\ref\detectingsystem.Core.dll
+C:\Users\Administrator\detectingsystem\detectingsystem.Core\obj\Debug\net5.0\detectingsystem.Core.pdb
